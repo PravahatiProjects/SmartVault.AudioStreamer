@@ -1,0 +1,11 @@
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\bin\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.deps.json
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\bin\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.runtimeconfig.json
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\bin\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.runtimeconfig.dev.json
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\bin\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.dll
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\bin\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.pdb
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\obj\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.csprojResolveAssemblyReference.cache
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\obj\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.csproj.CoreCompileInputs.cache
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\obj\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.AssemblyInfoInputs.cache
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\obj\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.AssemblyInfo.cs
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\obj\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.dll
+C:\Users\Shashank\Source\Repos\Pravahati.NetCore.AudioStream\Pravahati.NetCore.AudioStream\obj\Debug\netcoreapp2.0\Pravahati.NetCore.AudioStream.pdb
