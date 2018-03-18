@@ -8,13 +8,16 @@ using Pravahati.NetCore.MediaStream.Service;
 
 namespace Pravahati.NetCore.MediaStream.Controllers
 {
+    /// <summary>
+    /// referenced from : http://anthonygiretti.com/2018/01/16/streaming-video-asynchronously-in-asp-net-core-2-with-web-api/
+    /// </summary>
     //[Produces("application/json")]
     [Route("api/[controller]")]
-    public class StreamingController : Controller
+    public class VideoStreamingController : Controller
     {
-        private IAzureVideoStreamService _streamingService;
+        private IVideoStreamService _streamingService;
 
-        public StreamingController(IAzureVideoStreamService streamingService)
+        public VideoStreamingController(IVideoStreamService streamingService)
         {
             _streamingService = streamingService;
         }

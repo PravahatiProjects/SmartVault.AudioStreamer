@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pravahati.NetCore.MediaStream.Service
 {
-    public interface IAzureVideoStreamService
+    public interface IVideoStreamService
     {
         Task<Stream> GetVideoByName(string name);
     }

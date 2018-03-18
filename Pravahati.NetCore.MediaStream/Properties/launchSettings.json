@@ -11,7 +11,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/streaming",
+      "launchUrl": "api/videostreaming",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -19,7 +19,7 @@
     "Pravahati.NetCore.MediaStream": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/steaming",
+      "launchUrl": "api/videosteaming",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

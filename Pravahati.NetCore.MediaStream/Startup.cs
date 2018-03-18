@@ -26,7 +26,8 @@ namespace Pravahati.NetCore.MediaStream
         {
             services.AddMvc();
             //Configure the video streaming service
-            services.AddScoped<IAzureVideoStreamService, AzureVideoStreamService>();
+            services.AddScoped<IVideoStreamService, VideoStreamService>();
+            services.AddScoped<IAudioStreamService, AudioStreamService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

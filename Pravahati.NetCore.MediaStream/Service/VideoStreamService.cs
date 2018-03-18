@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Pravahati.NetCore.MediaStream.Service
 {
-    public class AzureVideoStreamService : IAzureVideoStreamService
+    public class VideoStreamService : IVideoStreamService
     {
         private HttpClient _client;
 
-        public AzureVideoStreamService()
+        public VideoStreamService()
         {
             _client = new HttpClient();
         }
@@ -35,7 +35,7 @@ namespace Pravahati.NetCore.MediaStream.Service
             return await _client.GetStreamAsync(urlBlob);
         }
 
-        ~AzureVideoStreamService()
+        ~VideoStreamService()
         {
             if (_client != null)
                 _client.Dispose();
